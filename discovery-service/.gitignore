@@ -1,12 +1,9 @@
-README.md
+HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-# Ignore wrapper ở modules
-**/mvnw
-**/mvnw.cmd
-**/.mvn/
+
 ### STS ###
 .apt_generated
 .classpath
